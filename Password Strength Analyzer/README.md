@@ -30,10 +30,11 @@ Password Strength Analyzer output → Output screenshots
 How to Run the Project
 
 1. Install Python
-2. Download the project files
-3. Open terminal in project folder
+2. Git Hub link https://github.com/giona-jasley/password-strength-analyzer/tree/main/Password%20Strength%20Analyzer
+3. Download the project files
+4. Open terminal in project folder
 
-4. Run:
+5. Run:
 
 python password_analyzer.py
 
